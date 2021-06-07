@@ -8,5 +8,5 @@ Script simples que verifica se um arquivo de log passado como entrada, está a m
 
 URGENTE - Aplicacao my_application_name na maquina dolly sem incrementar o log /tmp/application.log a mais de 1h.
 
-```console
+```
 
